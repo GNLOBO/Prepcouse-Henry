@@ -1,2 +1,3 @@
-# Prepcouse-Henry
-Este es un respositorio de prueba para el curso 2 de henry
+Este es un proyecto para clonar un repositorio desde github a mi escritorio local
+
+
